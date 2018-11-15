@@ -1,17 +1,50 @@
-body {
-        	background-image: url("tost.png");
-        }
 
+body {
+        background-color: rgb(77, 69, 77);
+            
+        }
 h1 {
-	background-color: white;
-	border-radius: 15px 0px 0px 15px;
-	padding: 20px;
-	font-weight: bold;
-    font-size: 5em;
-    text-align: center;
-    text-shadow: 2px 2px 3px black, 0 0 30px blue, 0 0 10px;
-    }
-.transparentWords {
-	opacity: 0.0;
+    
+    border-radius: 15px 15px 15px 15px;
+    padding: 2%;
+    margin-left: 20%; 
+    margin-right: 20%;
+
+    
 
 }
+
+
+
+.transparentWords {
+    
+
+    color: white;
+    font-weight: bold;
+    font-size: 7em;
+    text-align: center;
+
+    padding: 1%;
+    margin-left: 20%; 
+    margin-right: 20%;
+
+    
+    
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+    
+    
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+   
+    
+    }
+
+
+
+
+
+
+
+
+
