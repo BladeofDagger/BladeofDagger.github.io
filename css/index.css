@@ -84,11 +84,15 @@ h1 {
 .notes {
 
     background-image: url("../image/kartka.png");
+    background-attachment: scroll;
     border-radius: 15px 15px 15px 15px;
-    padding: 10%;
+    padding: 4%;
+    margin:5%;
+    margin-left: 25%;
 
-    height: 50%;
+    
     width: 50%;
+    height: 600px;
     overflow-y: auto;
     overflow-x: hidden; 
 }
