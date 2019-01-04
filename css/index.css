@@ -85,7 +85,7 @@ h1 {
 
     background-image: url("../image/kartka.png");
     border-radius: 15px 15px 15px 15px;
-   
+    padding: 2%;
 
     height: 50%;
     width: 50%;
