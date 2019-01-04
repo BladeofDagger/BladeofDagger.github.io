@@ -87,14 +87,14 @@ h1 {
     border-radius: 15px 15px 15px 15px;
    
 
-    height: 500px;
-    width: 200px;
+    height: 50%;
+    width: 50%;
     overflow-y: auto;
     overflow-x: hidden; 
 }
 
 ol {
-    padding: 5%;
+    padding:2%;
 }
 li {
     margin: 1%;
