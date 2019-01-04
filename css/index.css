@@ -93,6 +93,9 @@ h1 {
     overflow-x: hidden; 
 }
 
-li {
+ol {
     padding: 5%;
+}
+li {
+    margin: 1%;
 }
